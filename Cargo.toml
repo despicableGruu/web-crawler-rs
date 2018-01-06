@@ -1,8 +1,7 @@
 [package]
 name = "linkcrawler"
 version = "0.1.0"
-authors = ["tensor-programming <abeltensor@tensor-programming.com>"]
-
+authors = ["Brandon Richardson <brandon.richardson4328@outlook.com>"]
 [dependencies]
 hyper = "0.10.1"
 html5ever = "0.21.0"
